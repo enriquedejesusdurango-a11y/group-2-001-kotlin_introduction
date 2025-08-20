@@ -12,4 +12,9 @@ fun main() {
     println("Now let's have fun!")
     println(firstQuestion)
     println(firstUserAnswer)
+    println(secondQuestion)
+    println(secondUserAnswer)
+    println(thirdQuestion)
+    println(thirdUserAnswer)
 }
+
