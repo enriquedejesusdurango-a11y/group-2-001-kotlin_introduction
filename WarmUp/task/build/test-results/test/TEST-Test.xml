@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="1" skipped="1" failures="0" errors="0" timestamp="2025-08-29T04:41:54.539Z" hostname="0LUFF" time="1.532">
+  <properties/>
+  <testcase name="smokeTest()" classname="Test" time="1.532">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
